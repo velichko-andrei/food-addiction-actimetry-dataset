@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: "Actimetry & Food Addiction Dataset (78 participants)"
+message: "If you use this dataset, please cite the associated paper and this repository."
+type: dataset
+authors:
+  - family-names: Borisenkov
+    given-names: Mikhail
+  - family-names: Belyaev
+    given-names: Maksim
+  - family-names: Sivakumar
+    given-names: Nithya Rekha
+  - family-names: Murugappan
+    given-names: Murugappan
+  - family-names: Velichko
+    given-names: Andrei
+  - family-names: Korzun
+    given-names: Dmitry
+  - family-names: Tserne
+    given-names: Tatyana
+  - family-names: Bakutova
+    given-names: Larisa
+  - family-names: Gubin
+    given-names: Denis
+license: CC0-1.0
+repository-code: "https://github.com/velichko-andrei/food-addiction-actimetry-dataset"
