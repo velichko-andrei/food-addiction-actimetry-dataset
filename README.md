@@ -88,12 +88,12 @@ The study was conducted under institutional ethics approval and informed consent
 
 ## License
 
-Choose a license appropriate for data sharing, e.g.:
-- **CC BY 4.0** (recommended for open research datasets)  
-or
-- **CC0** (public domain dedication)
+**Data:** Creative Commons Zero v1.0 Universal (**CC0 1.0**).
 
-Include a clear “no re-identification” statement if required by your institution.
+You may copy, modify, distribute, and use this dataset for any purpose (including commercial use) without asking permission.
+
+**Citation request (not legally required under CC0):** If you use the dataset in academic work, please cite the associated paper (see the **Citation** section).
+
 
 ## Citation
 
@@ -102,8 +102,11 @@ If you use this dataset, please cite the associated paper:
 > Borisenkov M., Belyaev M., Sivakumar N.R., Murugappan M., Velichko A., Korzun D., et al.  
 > *Objective Features Extracted from Motor Activity Time Series for Food Addiction Analysis Using Machine Learning – A Pilot Study.* :contentReference[oaicite:2]{index=2}
 
-(Replace with the final journal reference / DOI once available.)
 
 ## Contact
 
-For questions or collaboration, please open an issue in this repository.
+For questions, data access, or collaboration, please contact:
+
+- Mikhail Borisenkov: borisenkovm@yandex.ru
+- Murugappan Murugappan: m.murugappan@kcst.edu.kw
+- Andrei Velichko: velichkogf@gmail.com
